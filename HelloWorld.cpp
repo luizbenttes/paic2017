@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
- cout << "Tome curtindo demaissss" << endl;
+ cout << "The xx" << endl;
+ int a;
+ cin >> a;
+ cout << a*2 << endl;
  return 0;
 }
